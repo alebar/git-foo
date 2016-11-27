@@ -10,4 +10,8 @@
   <artifactId>foo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <scm>
+    <connection>scm:git:git://github.com/alebar/git-foo.git</connection>
+  </scm>
+
 </project>
